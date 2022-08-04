@@ -37,6 +37,5 @@ jobs:
           context: ./src
           push: true
           tags: |
-            maiconf1980/kube-news:latest
-            maiconf1980/kube-news:${{github.run_number}}
-        
+            maiconnf1980/kube-news:latest
+            maiconnf1980/kube-news:${{github.run_number}}       
